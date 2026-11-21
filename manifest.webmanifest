@@ -1,0 +1,26 @@
+{
+  "name": "MindWeave 개인 마인드맵",
+  "short_name": "MindWeave",
+  "description": "오프라인 개인 마인드맵 · 로컬 저장",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1020",
+  "theme_color": "#0c1020",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
